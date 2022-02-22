@@ -1,0 +1,4 @@
+logs
+*.log
+node_modules/
+backup_files/*.**
